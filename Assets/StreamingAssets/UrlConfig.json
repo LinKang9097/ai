@@ -1,0 +1,19 @@
+{
+	"globalSocket": "http://39l137j807.yicp.fun",
+	"lstUrls": [{
+		"sceneName": "接口所属场景名称",
+		"interfaceName": "接口名称写在这里",
+		"socket": "接口IP+PORT",
+		"api": "api地址写在这里"
+	}, {
+		"sceneName": "Default",
+		"interfaceName": "大模型调用测试(对话)",
+		"socket": "",
+		"api": "/aiInteraction/ai/chat/stream"
+	}, {
+		"sceneName": "Default",
+		"interfaceName": "获取菜单列表",
+		"socket": "",
+		"api": "/aiInteraction/menu/list"
+	}]
+}
